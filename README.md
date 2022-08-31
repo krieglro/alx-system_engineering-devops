@@ -1,1 +1,1 @@
-pwd shows the absolute path of the current folder
+pwd prints absolute path of current directory
