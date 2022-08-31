@@ -1,1 +1,1 @@
-pwd prints absolute path of current directory
+pwd prints the absolute path of the current directory directory \nls prints a list of what is in the directory directory
