@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls  cp -nu *.html ..
+cp -nu *.html ..
